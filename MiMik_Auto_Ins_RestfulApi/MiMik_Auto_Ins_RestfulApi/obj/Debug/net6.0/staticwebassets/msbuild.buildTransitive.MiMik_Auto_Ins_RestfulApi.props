@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MiMik_Auto_Ins_RestfulApi.props" />
+</Project>
