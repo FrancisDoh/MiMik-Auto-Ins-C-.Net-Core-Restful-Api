@@ -2,14 +2,14 @@
 {
     public class Policy
     {
-        public int policyID { get; set; }
-        public string bodInjLabCvg { get; set; }
-        public string propDamLiabCvg { get; set; }
-        public string persInjProtCvg { get; set; }
-        public string policyState { get; set; }
-        public string dateTimeIssued { get; set; }
-        public string dateTimeBeginTerm { get; set; }
-        public string dateTimeEndTerm { get; set; }
+        public int PolicyID { get; set; }
+        public string BodInjLabCvg { get; set; }
+        public string PropDamLiabCvg { get; set; }
+        public string PersInjProtCvg { get; set; }
+        public string PolicyState { get; set; }
+        public string DateTimeIssued { get; set; }
+        public string DateTimeBeginTerm { get; set; }
+        public string DateTimeEndTerm { get; set; }
         public string PremiumTermAmount { get; set; }
     }
 }
